@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jun 29 22:02:18 IST 2021
+#Wed Jun 30 22:30:20 IST 2021
 0.baseType=DIRECTORY
 0.base=C\:\\Users\\vsptp\\AndroidStudioProjects\\android-fundamentals-starter-apps-v2-master\\MaterialMe-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.path=classes.dex

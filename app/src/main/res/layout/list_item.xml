@@ -38,14 +38,14 @@
         android:theme="@style/ThemeOverlay.AppCompat.Dark"
         android:text="@string/title_placeholder"
         android:padding="8dp"
-        style="@style/TextAppearance.AppCompat.Headline"/>
+        style="@style/SportsTitle"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/newsTitle"
         android:text="@string/news_placeholder"
         android:padding="8dp"
-        style="@style/TextAppearance.AppCompat.Subhead"
+        style="@style/SportsDetailText"
         android:layout_below="@+id/sportsImage"/>
     <TextView
         android:layout_width="wrap_content"

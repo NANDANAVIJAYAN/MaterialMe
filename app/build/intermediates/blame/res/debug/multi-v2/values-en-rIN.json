@@ -6,28 +6,50 @@
                 {
                     "source": "C:\\Users\\vsptp\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\36213be106cbb2e509148b0850ff86f3\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
                     },
                     "to": {
-                        "startLines": "20",
+                        "startLines": "62",
                         "startColumns": "4",
-                        "startOffsets": "1907",
+                        "startOffsets": "3585",
                         "endColumns": "100",
-                        "endOffsets": "2003"
+                        "endOffsets": "3681"
                     }
                 },
                 {
                     "source": "C:\\Users\\vsptp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\58d90a9f0bad8930770496954dddabc3\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,60",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,1825",
+                        "startOffsets": "1613,1717,1817,1925,2009,2109,2224,2301,2377,2459,2562,2666,2765,2870,2973,3077,3233,3433",
                         "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
-                        "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,1902"
+                        "endOffsets": "1712,1812,1920,2004,2104,2219,2296,2372,2454,2557,2661,2760,2865,2968,3072,3228,3328,3510"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vsptp\\AndroidStudioProjects\\android-fundamentals-starter-apps-v2-master\\MaterialMe-Starter\\app\\src\\main\\res\\values-en-rIN\\strings.xml",
+                    "from": {
+                        "startLines": "36,22,8,2,4,5,6,3",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1634,1024,621,57,161,212,283,108",
+                        "endLines": "48,34,20,2,4,5,6,3",
+                        "endColumns": "12,19,19,49,49,69,334,51",
+                        "endOffsets": "2166,1626,1016,102,206,277,613,155"
+                    },
+                    "to": {
+                        "startLines": "2,15,28,58,59,61,63,64",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,630,1225,3333,3383,3515,3686,4021",
+                        "endLines": "14,27,40,58,59,61,63,64",
+                        "endColumns": "12,19,19,49,49,69,334,51",
+                        "endOffsets": "625,1220,1608,3378,3428,3580,4016,4068"
                     }
                 }
             ]

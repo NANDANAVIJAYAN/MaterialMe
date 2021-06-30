@@ -18,6 +18,7 @@
     <string name="title_placeholder">Title</string>
     <string name="news_placeholder">News</string>
     <string name="sports_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail">amFOSS, a student-run community with over 50+ members from Amrita Vishwa Vidyapeetham, Amritapuri, over the last 14 years, has helped 100+ passionate students to transform into successful and innovative engineers who today work across the world in Fortune 500 Companies loving what they do.</string>
 
     <string-array name="sports_titles">
         <item>Baseball</item>
